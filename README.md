@@ -91,6 +91,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [Flutter](https://www.flutter.dev/)
 * [Dart](https://dart.dev/)
+* [Javascript](https://www.javascript.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
