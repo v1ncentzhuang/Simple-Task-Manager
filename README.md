@@ -47,10 +47,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <ul>
-      </ul>
-    </li>
+
     <li><a href="#contributing">Contributing</a></li>
 
   </ol>
