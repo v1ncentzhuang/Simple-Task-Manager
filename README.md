@@ -58,7 +58,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This was a 
+This is a task manager I built to keep track of my daily tasks, seperated by folders and classes!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
