@@ -62,6 +62,17 @@ You will need to install intelliJ, along with the Dart extension.
 From there, you will be able to move the LIB folder into the pathway...
 and Viola!
 
+<br>
+
+In addition, installing homebrew may make the setup process much cleaner!
+
+* Terminal
+  ```sh
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  ```
+
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
