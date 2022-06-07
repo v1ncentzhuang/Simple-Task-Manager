@@ -58,6 +58,8 @@
 
 This is a task manager I built to keep track of my daily tasks, seperated by folders and classes!
 
+I used my knowledge is Object Oriented Programming along with Javascript to present the knowledge I currently have in mobile app development
+
 You will need to install intelliJ, along with the Dart extension.
 From there, you will be able to move the LIB folder into the pathway...
 and Viola!
