@@ -30,7 +30,7 @@
   <h3 align="center">Simple Task Manager</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Simple Daily Task Manager for keeping track of daily tasks!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
