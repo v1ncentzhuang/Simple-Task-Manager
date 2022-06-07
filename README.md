@@ -56,9 +56,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This is a task manager I built to keep track of my daily tasks, seperated by folders and classes!
+
+You will need to install intelliJ, along with the Dart extension.
+From there, you will be able to move the LIB folder into the pathway...
+and Viola!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
